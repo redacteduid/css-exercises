@@ -4,3 +4,14 @@
     background-color: #FFA7A7;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
+
+#ID-1 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#ID-2 {
+    background-color: #80FF80;
+    font-size: 24px;
+    font-weight: bold;
+}
